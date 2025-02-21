@@ -1,13 +1,30 @@
+<div>
+    <a target='_blank' href="https://instagram.com/sir.elves">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/sirelves">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
+## Hello, stranger!
 
----
+Hello, welcome!
+I'm a technology and innovation enthusiast, always looking for challenges that push me to learn and grow. Here, I share my experiences and insights in a clear and objective way, valuing simplicity and reliability in every journey. Feel free to explore and get to know a little more about my universe.
 
-### Olá, sou Elves. 👋
+## Public Information
 
-Sou **Engenheiro de Software** especializado em **desenvolvimento backend** com **Java**. Tenho experiência na criação de soluções **escaláveis**, **eficientes** e **robustas**, com foco em otimização de processos e resolução de problemas complexos por meio de **boas práticas de desenvolvimento** e **arquiteturas bem definidas**.
+My name is Elves and I live in Buriti Bravo, in the Northeast. I'm dedicated to increasing access to technology among young people in my community, encouraging them to follow a path that contributes to their personal and professional development. I'm a software engineer with just over two years' experience, having worked with C# for a year and Java for another.
 
-Adoto metodologias **ágeis**, pratico **TDD** (Desenvolvimento Orientado a Testes) e sempre busco implementar soluções de **alta qualidade**. Estou em constante evolução, explorando novas tecnologias e desafiando-me a crescer como profissional e a contribuir de forma significativa para os projetos nos quais estou envolvido.
+## Detailed information
 
-Neste GitHub, compartilho projetos que refletem minha experiência prática e aprendizado contínuo. Se você se interessa por **back-end**, **Java**, **APIs**, **soluções escaláveis** e **performance**, sinta-se à vontade para explorar meus repositórios e conectar-se comigo.
+* **Name**: Elves Santos
+* **Age**: 22
+* **Living in**: Butiri Bravo - MA, Brazil
+* **Stack**: C#/.NET - Java/Java Spring - SQL - GCP - AWS - Azure
+* **Learning**: React
+* **University**: Uninter - International University Center
 
----
+## Curiosities about me
+
+* I was part of the winning team in the 2023 edition of the ["Accesstage"](https://br.linkedin.com/company/accesstagebr), Hackathon, in partnership with ["Negocie Online"](https://br.linkedin.com/company/negocie-online-br). I was responsible for developing the application's backend, which supported a chatbot powered by artificial intelligence to optimize and improve customer service. Check out the newsletter and find out more [Here](https://ipnews.com.br/accesstage-usa-hackathon-para-treinar-estagiarios-e-aprendizes/).
