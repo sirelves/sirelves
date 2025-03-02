@@ -29,6 +29,7 @@ My name is Elves and I live in Buriti Bravo, in the Northeast. I'm dedicated to 
 
 * I was part of the winning team in the 2023 edition of the ["Accesstage"](https://br.linkedin.com/company/accesstagebr), Hackathon, in partnership with ["Negocie Online"](https://br.linkedin.com/company/negocie-online-br). I was responsible for developing the application's backend, which supported a chatbot powered by artificial intelligence to optimize and improve customer service. Check out the newsletter and find out more [Here](https://ipnews.com.br/accesstage-usa-hackathon-para-treinar-estagiarios-e-aprendizes/).
 
+## MY ACTIVITY 
 
  <!--START_SECTION:waka-->
 
