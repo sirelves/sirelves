@@ -31,4 +31,9 @@ My name is Elves and I live in Buriti Bravo, in the Northeast. I'm dedicated to 
 
 
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
