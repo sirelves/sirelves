@@ -20,7 +20,7 @@ My name is Elves and I live in Buriti Bravo, in the Northeast. I'm dedicated to 
 
 * **Name**: Elves Santos
 * **Age**: 22
-* **Living in**: Butiri Bravo - MA, Brazil
+* **Living in**: Buriti Bravo - MA, Brazil
 * **Stack**: C#/.NET - Java/Java Spring - SQL - GCP - AWS - Azure
 * **Learning**: React
 * **University**: Uninter - International University Center
