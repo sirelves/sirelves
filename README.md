@@ -34,11 +34,11 @@ My name is Elves and I live in Buriti Bravo, in the Northeast. I'm dedicated to 
  <!--START_SECTION:waka-->
 
 ```txt
-Python           7 hrs 43 mins   ██████████████▒░░░░░░░░░░   57.99 %
-Java             2 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
-Markdown         1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Text             43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Other            33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Java             2 hrs 47 mins   ████████████▓░░░░░░░░░░░░   50.61 %
+Markdown         1 hr 30 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
+Python           44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Text             28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
