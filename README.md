@@ -34,11 +34,11 @@ My name is Elves and I live in Buriti Bravo, in the Northeast. I'm dedicated to 
  <!--START_SECTION:waka-->
 
 ```txt
-Java             45 mins         █████████████████████░░░░   83.65 %
-GitIgnore file   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Markdown         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Java               2 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.67 %
+GitIgnore file     2 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.54 %
+INI                1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+Markdown           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
