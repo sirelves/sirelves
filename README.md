@@ -1,37 +1,45 @@
 <div>
-    <a target='_blank' href="https://instagram.com/sir.elves">
+    <a target="_blank" href="https://instagram.com/sir.elves">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/sirelves">
+    <a target="_blank" href="https://linkedin.com/in/sirelves">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
 
-## Hello, stranger!
+## Hello, stranger.
 
-Hello, welcome!
-I'm a technology and innovation enthusiast, always looking for challenges that push me to learn and grow. Here, I share my experiences and insights in a clear and objective way, valuing simplicity and reliability in every journey. Feel free to explore and get to know a little more about my universe.
+Welcome.  
+This space consolidates my work as a **Full-Stack Developer**, focusing on building solutions that are stable, scalable and maintainable. I prioritize clarity, modularity and reliable architecture across both backend and frontend layers.
 
-## Public Information.
+## Public Information
 
-My name is Elves and I live in Buriti Bravo, in the Northeast. I'm dedicated to increasing access to technology among young people in my community, encouraging them to follow a path that contributes to their personal and professional development. I'm a software engineer with just over two years' experience, having worked with C# for a year and Java for another.
+My name is **Elves Santos**, and I live in **Buriti Bravo – MA, Brazil**.  
+I work to expand access to technology among young people in my community, encouraging technical development and professional growth. Currently, I operate as a **Full-Stack Software Engineer**, delivering end-to-end solutions with emphasis on backend robustness and consistent frontend experiences.
 
-## Detailed information.
+## Detailed Information
 
-* **Name**: Elves Santos
-* **Living in**: Buriti Bravo - MA, Brazil
-* **Stack**: C#/.NET - Java/Java Spring - SQL - GCP - AWS - Azure, React, Laravel
+- **Name:** Elves Santos  
+- **Age:** 22  
+- **Location:** Buriti Bravo – MA, Brazil  
+- **Role:** Full-Stack Developer  
+- **Technical Stack:**  
+  - **Backend:** C#/.NET • Java/Spring • Python • Node.js • Laravel/PHP  
+  - **Frontend:** React • JavaScript • TypeScript  
+  - **Databases:** SQL • NoSQL (MongoDB, Firestore, DynamoDB)  
+  - **Cloud:** AWS • GCP • Azure  
+- **Currently Learning:** React ecosystem and modern frontend architecture  
+- **University:** Uninter – International University Center  
 
-## Curiosities about me.
+## Professional Highlight
 
-* I was part of the winning team in the 2023 edition of the ["Accesstage"](https://br.linkedin.com/company/accesstagebr), Hackathon, in partnership with ["Negocie Online"](https://br.linkedin.com/company/negocie-online-br). I was responsible for developing the application's backend, which supported a chatbot powered by artificial intelligence to optimize and improve customer service. Check out the newsletter and find out more [Here](https://ipnews.com.br/accesstage-usa-hackathon-para-treinar-estagiarios-e-aprendizes/).
+Winner of the **Accesstage Hackathon 2023**, in partnership with **Negocie Online**.  
+I implemented the backend for an AI-assisted chatbot designed to enhance customer support processes.  
+More details in the official publication: [link](https://ipnews.com.br/accesstage-usa-hackathon-para-treinar-estagiarios-e-aprendizes/).
 
-## My activity.
+## Activity
 
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 No activity tracked
-```
-
-<!--END_SECTION:waka-->
