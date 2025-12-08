@@ -19,16 +19,14 @@ I work to expand access to technology among young people in my community, encour
 
 ## Detailed Information
 
-- **Name:** Elves Santos  
-- **Age:** 22  
+- **Name:** Elves Santos   
 - **Location:** Buriti Bravo – MA, Brazil  
 - **Role:** Full-Stack Developer  
 - **Technical Stack:**  
   - **Backend:** C#/.NET • Java/Spring • Python • Node.js • Laravel/PHP  
-  - **Frontend:** React • JavaScript • TypeScript  
+  - **Frontend:** React • JavaScript • TypeScript • Laravel  
   - **Databases:** SQL • NoSQL (MongoDB, Firestore, DynamoDB)  
-  - **Cloud:** AWS • GCP • Azure  
-- **Currently Learning:** React ecosystem and modern frontend architecture  
+  - **Cloud:** AWS • GCP • Azure   
 - **University:** Uninter – International University Center  
 
 ## Professional Highlight
