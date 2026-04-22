@@ -29,11 +29,9 @@ Cross-platform desktop app for voice rooms. Tauri v2 shell, Rust signaling
 backend, Postgres 16, and a real WebRTC P2P mesh — the server never touches
 audio. Open source under MIT.
 
-<!-- Uncomment once the repo is public:
 <a href="https://github.com/sirelves/boracall">
   <img src="https://raw.githubusercontent.com/sirelves/boracall/main/landing-hero.png" alt="BoraCall" width="70%" />
 </a>
--->
 
 **Stack:** Rust (axum 0.8, sqlx, jemalloc) · Tauri v2 · Postgres 16 · WebRTC · React 18 (no build step)
 
