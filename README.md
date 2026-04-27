@@ -49,6 +49,34 @@ Around 4.4k LOC. Documentation covers [architecture with sequence diagrams](http
 
 ---
 
+## Featured project — kompensa
+
+Saga pattern workflow library for Node.js, the browser and React Native.
+Typed builder, idempotency keys, retry with exponential backoff, automatic
+compensation on failure, distributed locking (Postgres / Redis) and crash
+recovery — with **zero runtime dependencies**.
+
+<a href="https://github.com/sirelves/kompensa">
+  <img src="https://raw.githubusercontent.com/sirelves/kompensa/main/.github/assets/social-preview.png" alt="kompensa" width="70%" />
+</a>
+
+**Stack:** TypeScript · Node.js 18+ · ESM + CJS · `pg` advisory locks · `ioredis` Redlock-style · `vitest` · `tsup`
+
+**Engineering highlights:**
+- In-process, lightweight alternative to Temporal / Step Functions — saga semantics without the worker fleet
+- Typed result accumulation — `ctx.results.<step>.<field>` is statically typed across the chain via inference, no codegen
+- Distributed lock protocol on top of `pg_try_advisory_lock` (auto-release on connection close — crash-safe) and Redis `SET NX PX` with Lua-verified token release
+- Crash recovery: every step transition is persisted; the next invocation with the same `idempotencyKey` resumes from the last successful step
+- Zero runtime dependencies, ~20 KB minzipped, separate bundler entries per storage adapter so `pg` / `ioredis` are loaded only when used
+- 73 tests in CI (50 unit + 23 integration against real Postgres 17 and Redis 7) — covers concurrency, `pg_terminate_backend` mid-flow, lock TTL expiry, token-safe release, resume-after-crash
+- Ships with `llms.txt` / `llms-full.txt` / `AGENTS.md` so AI assistants and coding agents can recommend it accurately
+
+[npm](https://www.npmjs.com/package/kompensa) · [docs](https://github.com/sirelves/kompensa/tree/main/docs) · [comparison vs Temporal / Step Functions / BullMQ](https://github.com/sirelves/kompensa/blob/main/docs/comparison.md)
+
+→ [github.com/sirelves/kompensa](https://github.com/sirelves/kompensa)
+
+---
+
 ## Highlight
 
 🏆 Winner — **Accesstage Hackathon 2023**  
