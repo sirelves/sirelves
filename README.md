@@ -20,16 +20,16 @@ Foco em serviços de backend confiáveis, plataformas web sustentáveis e sistem
 
 ### 🚀 Projetos em destaque
 
-#### 🎓 Agiliza Educa — *produto principal* &nbsp;![Em produção](https://img.shields.io/badge/em%20produção-22C55E?style=flat-square)
-Plataforma **full-stack de educação**, de ponta a ponta: **web** (Next.js + TypeScript), **backend** (Spring Boot · Java 25) e **mobile** (React Native + Expo 55). Parte do ecossistema **athmos-services**, que inclui ainda um *middleware de borda* de reconhecimento facial (Python) para terminais físicos. Repositórios privados.
+#### 🌱 GrowApp — Monitoramento agrícola &nbsp;![Em produção](https://img.shields.io/badge/em%20produção-22C55E?style=flat-square)
+Plataforma de monitoramento de pragas e produção para o agronegócio: **mobile** offline-first (Expo / React Native + SQLite), **web** (Next.js) e **backend** (Node.js / Express / TypeScript, Prisma + PostgreSQL, Redis + Bull).
+🔗 [Web](https://app.fgconsultoria.agr.br/) · [Android](https://app.fgconsultoria.agr.br/android) · [iOS](https://app.fgconsultoria.agr.br/ios)
 
 #### 🧬 [SwiftDroid](https://github.com/sirelves/SwiftDroid) — *flagship técnico · open source*
 **Runtime compatível com SwiftUI para Android, escrito em Swift puro** — sem transpilação, sem JVM, sem ponte JS. Core agnóstico de plataforma (reatividade `@State`/`@Binding`/`@ObservedObject` + protocolo `View`), engine de layout *propose/respond* e pipeline Android (swift-java → Jetpack Compose), preservando a semântica exata do Swift.
 `Swift 6` · `SwiftUI` · `SPM` — *Phases 0–3 concluídas, 64 testes passando.*
 
-#### 🌱 GrowApp — Monitoramento agrícola &nbsp;![Em produção](https://img.shields.io/badge/em%20produção-22C55E?style=flat-square)
-Plataforma de monitoramento de pragas e produção para o agronegócio: **mobile** offline-first (Expo / React Native + SQLite), **web** (Next.js) e **backend** (Node.js / Express / TypeScript, Prisma + PostgreSQL, Redis + Bull).
-🔗 [Web](https://app.fgconsultoria.agr.br/) · [Android](https://app.fgconsultoria.agr.br/android) · [iOS](https://app.fgconsultoria.agr.br/ios)
+#### 🎓 Agiliza Educa — *produto principal* &nbsp;![Em desenvolvimento](https://img.shields.io/badge/em%20desenvolvimento-F59E0B?style=flat-square)
+Plataforma **full-stack de educação**, de ponta a ponta: **web** (Next.js + TypeScript), **backend** (Spring Boot · Java 25) e **mobile** (React Native + Expo 55). Parte do ecossistema **athmos-services**, que inclui ainda um *middleware de borda* de reconhecimento facial (Python) para terminais físicos. Repositórios privados.
 
 #### 📞 [BoraCall](https://github.com/sirelves/boracall)
 App desktop de salas de voz: shell **Tauri v2**, signaling em **Rust** (axum + sqlx), **PostgreSQL 16** e **mesh WebRTC P2P** real — o servidor nunca toca no áudio. Argon2id, auto-updater assinado (ed25519) e CI multiplataforma. Open source (MIT).
