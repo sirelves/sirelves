@@ -160,7 +160,7 @@ A **community project, live in production**: a platform for a Jiu-Jitsu social p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://stats.siasagiliza.net/stats.svg" alt="Dev stats — todas as orgs · all orgs" width="480"/>
+  <img src="https://stats.siasagiliza.net/stats.svg?v=1" alt="Dev stats — todas as orgs · all orgs" width="480"/>
 </p>
 
 > Card próprio, **auto-hospedado**: estatísticas reais agregando **todas as organizações** (incl. privadas) — algo que os widgets públicos não capturam.<br/>
