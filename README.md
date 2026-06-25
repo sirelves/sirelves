@@ -46,7 +46,7 @@ Arquitetura de três camadas — *Core* agnóstico de plataforma (reatividade `@
 
 `Swift 6` · `SwiftUI` · `Swift Package Manager` · `Jetpack Compose` — *Phases 0–3 concluídas (Foundation, Reatividade, View Protocol, Layout Engine), 64 testes passando; renderer Android e adapter iOS em andamento.*
 
-#### 🌱 GrowApp — Plataforma de monitoramento agrícola
+#### 🌱 GrowApp — Plataforma de monitoramento agrícola &nbsp;![Em produção](https://img.shields.io/badge/em%20produção-22C55E?style=flat-square)
 Plataforma completa de monitoramento de pragas e produção para o agronegócio, arquitetada de ponta a ponta: **mobile** offline-first (Expo / React Native + SQLite com sincronização), **web** (Next.js) e **backend** (Node.js / Express / TypeScript, Prisma + PostgreSQL, Redis + Bull para filas assíncronas).
 
 🔗 [Web](https://app.fgconsultoria.agr.br/) · [Android](https://app.fgconsultoria.agr.br/android) · [iOS](https://app.fgconsultoria.agr.br/ios)
@@ -90,7 +90,7 @@ A three-tier architecture — a platform-agnostic *Core* (reactivity: `@State`/`
 
 `Swift 6` · `SwiftUI` · `Swift Package Manager` · `Jetpack Compose` — *Phases 0–3 complete (Foundation, Reactivity, View Protocol, Layout Engine), 64 tests passing; Android renderer and iOS adapter in progress.*
 
-#### 🌱 GrowApp — Agricultural monitoring platform
+#### 🌱 GrowApp — Agricultural monitoring platform &nbsp;![Live](https://img.shields.io/badge/live-22C55E?style=flat-square)
 An end-to-end pest and production monitoring platform for agribusiness, architected across every layer: **offline-first mobile** (Expo / React Native + SQLite with sync), **web** (Next.js), and **backend** (Node.js / Express / TypeScript, Prisma + PostgreSQL, Redis + Bull for async queues).
 
 🔗 [Web](https://app.fgconsultoria.agr.br/) · [Android](https://app.fgconsultoria.agr.br/android) · [iOS](https://app.fgconsultoria.agr.br/ios)
