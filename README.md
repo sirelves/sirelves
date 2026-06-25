@@ -159,40 +159,12 @@ A **community project, live in production**: a platform for a Jiu-Jitsu social p
 
 ## 📊 GitHub Stats
 
-### Linguagens · Languages
-
-```text
-TypeScript   ██████████████████  30.2%
-PHP          █████████████████   27.9%
-Java         ██████████████      23.3%
-JavaScript   ██████               9.3%
-Swift        █                    2.3%
-Rust         █                    2.3%
-Python       █                    2.3%
-```
-
-> Agregado por nº de repositórios em **todas as organizações** (exceto a comunidade he4rt). PHP concentrado em projetos de servidores de jogos.<br/>
-> <i>Aggregated by repo count across **all organizations** (excluding the he4rt community). PHP is concentrated in game-server projects.</i>
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sirelves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirelves&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://stats.siasagiliza.net/stats.svg" alt="Dev stats — todas as orgs · all orgs" width="480"/>
 </p>
 
-<!--
-  Para o card acima contar commits de TODAS as orgs (incl. privadas):
-  1. Fork já criado → https://github.com/sirelves/github-readme-stats
-  2. Importe esse fork na Vercel (Add New… → Project) e faça deploy.
-  3. Nas Environment Variables do projeto Vercel, crie:
-       PAT_1 = um Personal Access Token (classic) com escopos: repo, read:org
-  4. Troque o host das imagens de stats acima de
-       https://github-readme-stats.vercel.app
-     pela URL do seu deploy, ex.:
-       https://SEU-PROJETO.vercel.app/api?username=sirelves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
-     (mantenha include_all_commits=true & count_private=true)
-  Obs.: o card de "top languages" do widget é OWNER-only e byte-skewed; por isso
-  as linguagens acima são uma barra calculada manualmente e mais fiel.
--->
+> Card próprio, **auto-hospedado**: estatísticas reais agregando **todas as organizações** (incl. privadas) — algo que os widgets públicos não capturam.<br/>
+> <i>Self-hosted custom card: real stats across **all organizations** (incl. private) — which public widgets can't capture.</i>
 
 
 ---
