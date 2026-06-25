@@ -39,7 +39,10 @@ Não me contento com a camada superficial — gosto de entender **como as coisas
 
 ### 🚀 Projetos em destaque
 
-#### 🧬 [SwiftDroid](https://github.com/sirelves/SwiftDroid) — *flagship*
+#### 🎓 Agiliza Educa — *produto principal* &nbsp;![Em produção](https://img.shields.io/badge/em%20produção-22C55E?style=flat-square)
+Plataforma **full-stack de educação**, arquitetada de ponta a ponta: **web** (Next.js + TypeScript), **backend** (Spring Boot · Java 25) e **mobile** (React Native + Expo 55). Parte do ecossistema **athmos-services**, que inclui ainda um *middleware de borda* de reconhecimento facial (Python) para integração com terminais físicos — validação, sanitização e despacho assíncrono de eventos. Repositórios privados.
+
+#### 🧬 [SwiftDroid](https://github.com/sirelves/SwiftDroid) — *flagship técnico · open source*
 **Runtime compatível com SwiftUI para Android, escrito em Swift puro.** Sem transpilação, sem JVM, sem ponte JavaScript: escreva a UI uma vez em Swift e compile **nativamente** para iOS *e* Android (ARM nativo + Jetpack Compose como backend de renderização).
 
 Arquitetura de três camadas — *Core* agnóstico de plataforma (reatividade `@State`/`@Binding`/`@ObservedObject` e protocolo `View`), adaptadores de plataforma e pipeline Android (engine de layout, bridge swift-java, render Compose). Implementa fielmente o modelo *propose/respond* de layout do SwiftUI, preservando a semântica exata da linguagem.
@@ -83,7 +86,10 @@ I'm not satisfied with the surface layer — I want to understand **how things a
 
 ### 🚀 Featured projects
 
-#### 🧬 [SwiftDroid](https://github.com/sirelves/SwiftDroid) — *flagship*
+#### 🎓 Agiliza Educa — *main product* &nbsp;![Live](https://img.shields.io/badge/live-22C55E?style=flat-square)
+A **full-stack education platform**, architected end to end: **web** (Next.js + TypeScript), **backend** (Spring Boot · Java 25), and **mobile** (React Native + Expo 55). Part of the **athmos-services** ecosystem, which also includes an *edge middleware* for facial recognition (Python) integrating with physical terminals — validating, sanitizing, and dispatching events asynchronously. Private repositories.
+
+#### 🧬 [SwiftDroid](https://github.com/sirelves/SwiftDroid) — *technical flagship · open source*
 **A SwiftUI-compatible runtime for Android, written in pure Swift.** No transpilation, no JVM, no JavaScript bridge: write your UI once in Swift and compile it **natively** to iOS *and* Android (native ARM + Jetpack Compose as the render backend).
 
 A three-tier architecture — a platform-agnostic *Core* (reactivity: `@State`/`@Binding`/`@ObservedObject` and the `View` protocol), platform adapters, and an Android pipeline (layout engine, swift-java bridge, Compose renderer). It faithfully implements SwiftUI's *propose/respond* layout model and preserves exact Swift semantics.
