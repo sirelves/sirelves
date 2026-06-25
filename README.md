@@ -57,8 +57,8 @@ App desktop cross-platform de salas de voz: shell **Tauri v2**, backend de signa
 #### 🔁 [kompensa](https://github.com/sirelves/kompensa)
 Biblioteca de workflow com **saga pattern** para Node.js, browser e React Native: builder tipado, idempotência, retry com backoff, compensação automática, locking distribuído (PostgreSQL advisory locks / Redis) e recuperação de falhas — **zero dependências de runtime**.
 
-#### 🥋 [Comando JJ](https://comandojj.com/)
-Plataforma para um projeto social de Jiu-Jitsu que apoia jovens em situação de vulnerabilidade no interior do Maranhão. **Java 25 · Spring Boot · React Native · PostgreSQL** em produção — engenharia com impacto social.
+#### 🥋 [Comando JJ](https://comandojj.com/) &nbsp;![Em produção](https://img.shields.io/badge/em%20produção-22C55E?style=flat-square)
+Projeto **comunitário em produção**: plataforma para um projeto social de Jiu-Jitsu que apoia jovens em situação de vulnerabilidade no interior do Maranhão. **Java 25 · Spring Boot · React Native · PostgreSQL** — engenharia com impacto social, fora do ambiente corporativo tradicional. 🔗 [comandojj.com](https://comandojj.com/)
 
 ### 🏆 Destaque
 **Vencedor do Hackathon Accesstage 2023** — backend de um chatbot de atendimento ao cliente assistido por IA. [Notícia](https://ipnews.com.br/accesstage-usa-hackathon-para-treinar-estagiarios-e-aprendizes/)
@@ -101,8 +101,8 @@ A cross-platform desktop app for voice rooms: a **Tauri v2** shell, a **Rust** s
 #### 🔁 [kompensa](https://github.com/sirelves/kompensa)
 A **saga-pattern** workflow library for Node.js, the browser, and React Native: a typed builder, idempotency keys, retry with backoff, automatic compensation, distributed locking (PostgreSQL advisory locks / Redis), and crash recovery — **zero runtime dependencies**.
 
-#### 🥋 [Comando JJ](https://comandojj.com/)
-A platform for a Jiu-Jitsu social project supporting young people in vulnerable situations in the countryside of Maranhão, Brazil. **Java 25 · Spring Boot · React Native · PostgreSQL** in production — engineering with social impact.
+#### 🥋 [Comando JJ](https://comandojj.com/) &nbsp;![Live](https://img.shields.io/badge/live-22C55E?style=flat-square)
+A **community project, live in production**: a platform for a Jiu-Jitsu social project supporting young people in vulnerable situations in the countryside of Maranhão, Brazil. **Java 25 · Spring Boot · React Native · PostgreSQL** — engineering with social impact, outside the traditional corporate environment. 🔗 [comandojj.com](https://comandojj.com/)
 
 ### 🏆 Highlight
 **Winner — Accesstage Hackathon 2023** — backend for an AI-assisted customer-support chatbot. [Article](https://ipnews.com.br/accesstage-usa-hackathon-para-treinar-estagiarios-e-aprendizes/)
